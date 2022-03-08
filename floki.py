@@ -60,4 +60,4 @@ async def on_ready():
     if not timerMessage.is_running():
         timerMessage.start()
 
-client.run("OTExMzIyMDA2MDkwMzA5Njcz.YZfswQ.g44MF3ylJ2aFI5II5_H674vAEI8")
+client.run("")
